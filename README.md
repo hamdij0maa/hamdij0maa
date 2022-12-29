@@ -1,5 +1,5 @@
 # 💫 About Me:
-🍄 Chief Executive Officer & Co-Founder at Halber, Chief Creative Officer & Co-Founder at Nxtya<br>🍀 I’m currently learning Go<br>💬 Ask me about React/React-Native
+🍄 Chief Executive Officer & Co-Founder at Halber, Chief Creative Officer & Co-Founder at Nxtya<br>🍀 Ask me about React/React Native<br>
 
 
 ## 🌐 Socials:
