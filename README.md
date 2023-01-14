@@ -10,7 +10,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=hamdij0maa&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hamdij0maa&theme=default&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hamdij0maa&theme=default&hide_border=true&include_all_commits=true&layout=compact)
 
   ## 💰 You can boost us by:
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/zGpFktnVv) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/22949664) 
