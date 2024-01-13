@@ -1,6 +1,6 @@
 # 💫 About Me:
 🚀 I’m currently working for https://skillnation.nl,
-<br>🚀 https://nxtya.com & https://halber.io <br>👯 I’m looking to collaborate on AI/Mobile React Native/UX-UI Design<br>🌱 I’m currently learning Go, Rust<br>💬 Ask me about RN, JS, TS, UX/UI Design<br>⚡ At the End Everything Will Be Okay, If it's not okay, it's not the end. 
+<br>🚀 https://nxtya.com & https://halber.io <br>👯 I’m looking to collaborate on AI/Mobile React Native/UX-UI Design<br>🌱 I’m currently learning Go, Rust<br>💬 Ask me about RN, JS, TS, UX/UI Design<br>
 
 
 ## 🥑 Socials:
