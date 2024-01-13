@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 I’m currently working on a new mobile app, for https://nxtya.com & https://halber.io <br>👯 I’m looking to collaborate on AI/Mobile React Native/UX-UI Design<br>🌱 I’m currently learning Go, Native RN Modules.<br>💬 Ask me about RN, JS, TS, UX/UI Design<br>⚡ At the End Everything Will Be Okay, If it's not okay, it's not the end. 
+🚀 I’m currently working for https://skillnation.nl, for https://nxtya.com & https://halber.io <br>👯🚀 https://nxtya.com & https://halber.io <br>👯 I’m looking to collaborate on AI/Mobile React Native/UX-UI Design<br>🌱 I’m currently learning Go, Native RN Modules.<br>💬 Ask me about RN, JS, TS, UX/UI Design<br>⚡ At the End Everything Will Be Okay, If it's not okay, it's not the end. 
 
 
 ## 🥑 Socials:
