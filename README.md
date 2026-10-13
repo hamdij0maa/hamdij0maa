@@ -1,6 +1,6 @@
 # 💫 About Me:
 🚀 I’m currently working for https://skillnation.nl,
-👯 🌱 I’m currently learning Go, Rust<br>💬 Ask me about React Native, JS, TS, UX/UI Design<br>
+👯 🌱 I’m currently learning Go, Rust<br>💬 Ask me about React Native, JS, TS, Swift, UX/UI Design<br>
 
 
 ## 🥑 Socials:
