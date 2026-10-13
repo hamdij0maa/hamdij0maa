@@ -1,6 +1,6 @@
 # 💫 About Me:
 🚀 I’m currently working for https://skillnation.nl,
-<br>🚀 https://halber.io <br>👯 🌱 I’m currently learning Go, Rust<br>💬 Ask me about React Native, JS, TS, UX/UI Design<br>
+👯 🌱 I’m currently learning Go, Rust<br>💬 Ask me about React Native, JS, TS, UX/UI Design<br>
 
 
 ## 🥑 Socials:
